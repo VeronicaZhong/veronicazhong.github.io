@@ -4,4 +4,4 @@ if you add text
 
 ## Sub title with two \#\#
 
-Link with [veronicazhong](veronicazhong.github.io)
+Link with [veronicazhong](https://veronicazhong.github.io)
